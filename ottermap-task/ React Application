@@ -1,0 +1,11 @@
+npx create-react-app react-openlayers
+cd react-openlayers
+npm start
+
+npm install react-router-dom
+
+src/
+  components/
+    Home.js
+    Map.js
+  App.js
